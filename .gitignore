@@ -40,3 +40,4 @@ test.sh
 *.sh
 log/*
 model/*
+movie/*
